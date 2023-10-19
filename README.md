@@ -1,6 +1,8 @@
 # sagemaker-stable-diffusion
   notebooks for installing stable diffusion in sage maker❤️
 
+Change `NGROK_TOKEN_AUTH` to Your Ngrok Token
+
   click 👇 to use in sagemaker
   
 <a href='https://studiolab.sagemaker.aws/import/github/hardianto01/sagemaker-stable-diffusion/blob/main/sagemaker.ipynb'>
