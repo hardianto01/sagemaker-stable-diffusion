@@ -9,6 +9,6 @@ https://github.com/camenduru/stable-diffusion-webui-sagemaker
 The original author of these notebooks is actually from [@camenduru](https://github.com/camenduru/stable-diffusion-webui-sagemaker), I just modified them a little for my needs
 
 ## Contact
-[Instagram](https://instagram.com/hardianto02)
+[Instagram](https://instagram.com/hardianto02_)
 
 ---
